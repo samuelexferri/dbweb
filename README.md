@@ -4,7 +4,7 @@
 <img src="https://github.com/samuelexferri/dbweb/blob/master/doc/logo.png" width="1000">
 </p>
 
-Database and Web's project
+Database and Web project
 
 Site for the management of apiaries and honey booking written in PHP and MySQL
 
