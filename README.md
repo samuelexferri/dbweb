@@ -1,14 +1,14 @@
 # Database and Web
 
 <p align="center">
-<img src="https://github.com/samuelexferri/dbweb/blob/master/doc/logo.png" width="1000">
+<img src="https://github.com/samuelexferri/unibg-dbweb/blob/master/doc/logo.png" width="1000">
 </p>
 
 Database and Web project
 
 Site for the management of apiaries and honey booking written in PHP and MySQL
 
-[beekeeperunibg.altervista.org](https://beekeeperunibg.altervista.org) [CLOSED]
+<s>[beekeeperunibg.altervista.org](https://beekeeperunibg.altervista.org)</s>
 
 ![alt text](https://img.shields.io/badge/Language-Italian-infomrmational?style=for-the-badge)
 
